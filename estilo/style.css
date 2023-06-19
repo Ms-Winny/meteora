@@ -14,6 +14,10 @@
     color: #daff01;
 }
 
+.destaque {
+    font-weight: bold;
+}
+
 @media (min-width: 1440px) {
     .divs-facilidades {
         width: 304px;
